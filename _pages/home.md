@@ -8,10 +8,10 @@ profile:
   align: right
   image: new_pic.JPG
   image_circular: false # crops the image to make it circular
-#  more_info: >
+# more_info: >
 #   <p>555 your office number</p>
 #   <p>123 your address street</p>
-#   <p>Your City, State 12345</p>
+# <p>Dhaka, Bangladesh</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,27 +27,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m <span class="theme-text">Bishaw Kirti Chakma</span>, a recent graduate in <span class="theme-text">Electronics and Communication Engineering</span> from <span class="theme-text">Khulna University of Engineering and Technology (KUET)</span>. I love exploring how technology and intelligence come together — especially in <span class="theme-text">Machine Learning</span>, <span class="theme-text">Natural Language Processing</span>, and <span class="theme-text">Generative AI</span>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’ve taken several courses and completed small projects in these areas, and I’m always curious to learn something new or build something cool. My goal is to dive deeper into AI research and work on ideas that can make a real-world impact.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of studies, I enjoy watching thrillers, playing games, traveling, and reading sci-fi and fantasy novels. I like trying new things and experimenting with creative tech ideas whenever I can.
 
-## **Interests** 
+## **Interests**
 
-I'm fascinated by the intersection of AI, privacy, and human language.  
-Currently, I'm focusing on:
-- Developing modern web apps using React + Node.js
-- Building privacy-aware text rewriting systems**
-- Exploring AI ethics and data protection
-- Collaborating on open-source projects  
+I’m fascinated by the intersection of <span class="theme-text">AI</span>, <span class="theme-text">privacy</span>, and <span class="theme-text">human language</span>. I am passionate about machine learning and its real-world applications, and I enjoy exploring how intelligent systems can solve meaningful problems. I’m also curious about areas like <span class="theme-text">cognitive science</span>, <span class="theme-text">neuroscience</span>, and <span class="theme-text">robotics</span>.
 
-Outside of academics and work, I enjoy reading great works of classic literature and philosophy. Check out my Goodreads for my bookshelf. This is not up to date becasue I use my own Notion database, which unfortunately is not public.
+Currently, I’m focusing on:
 
+- Exploring <span class="theme-text">fog computing</span> and <span class="theme-text">generative AI</span>  
+- Collaborating on <span class="theme-text">open-source projects</span> 
+- Developing <span class="theme-text">agentic systems</span> for extracting financial data from multimodal sources
 
-##  **Skills**  
+## **Skills**  
 
-I am proficient in machine learning, data science, full stack development, iOS development, software engineering, and system design engineering. Here are the technologies I am familiar with:
+I am proficient in machine learning, data science, and familiar with web development and networking. Here are the technologies I am familiar with:
+
 
 ### Languages
 <p align="left">
@@ -95,6 +94,8 @@ I am proficient in machine learning, data science, full stack development, iOS d
 <div style="height: 15px;"></div>
 
 ##  **Awards & Certificates**
+
+Some of my achievements -
 
 <style>
 .certificate-grid {
@@ -226,13 +227,14 @@ I am proficient in machine learning, data science, full stack development, iOS d
 .lightbox-close:hover {
   color: var(--global-theme-color);
 }
+
 </style>
 
 <div class="certificate-grid">
-  <div class="certificate-card" onclick="openLightbox('/assets/img/1.jpg')">
-    <img src="/assets/img/1.jpg" alt="Data Scientist with Python Track">
+  <div class="certificate-card" onclick="openLightbox('/assets/img/bd_police.jpg')">
+    <img src="/assets/img/bd_police.jpg" alt="Bd Police Award 2019">
     <div class="certificate-overlay">
-      <div class="certificate-title">Data Scientist with Python Track</div>
+      <div class="certificate-title">BD Police Academic Excellence Award</div>
       <!-- <div class="certificate-issuer">DataCamp</div> -->
     </div>
   </div>
