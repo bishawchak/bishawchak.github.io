@@ -1,14 +1,21 @@
-github_users:
-  - torvalds
-  - alshedivat
+# # github_users:
+# #   - torvalds
+# #   - alshedivat
 
-repo_description_lines_max: 2
+# repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+# github_repos:
+#   - bishawchak/Priban
+#   - bishawchak/Undergrad_Thesis
+#   - bishawchak/Student_Attendance_System
+#   - bishawchak/Sorting_Algorithm
+#   - bishawchak/Ping_Pong
+#   - bishawchak/Self_Balancing_Robot
+#   - bishawchak/DC_Power_Supply
+#   # - alshedivat/al-folio
+#   # - jekyll/jekyll
+#   # - twbs/bootstrap
+#   # - jquery/jquery
+#   # - FortAwesome/Font-Awesome
+#   # - mathjax/MathJax
+#   # - jpswalsh/academicons

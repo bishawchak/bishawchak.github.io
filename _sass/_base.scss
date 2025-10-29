@@ -1423,3 +1423,22 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+
+
+
+// Skill icons hover effect
+p a img {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  opacity: 0.8;
+}
+
+p a:hover img {
+  transform: scale(1.15);
+  opacity: 1;
+}
+
+// Special handling for theme-adaptive icons
+[data-theme="dark"] a img[src*="Matplotlib_icon.svg"] {
+  filter: brightness(0) saturate(100%) invert(1);
+}
