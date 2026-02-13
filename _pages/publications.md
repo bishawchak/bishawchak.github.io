@@ -153,7 +153,9 @@ document.addEventListener("DOMContentLoaded", function() {
     Authors: Md Anowarul Faruk Shishir, Bishaw Kirti Chakma, Indrajit Gupta
   </div>
   <div class="pub-venue">
-    <em>Submitted to ICCIT 2025 (Under Review)</em>
+    <a href="https://iccit.org.bd/2025/home/">
+    <em>Submitted to ICCIT 2025 (Accepted)</em>
+    </a>
   </div>
 
   <div class="pub-buttons">
@@ -178,7 +180,7 @@ document.addEventListener("DOMContentLoaded", function() {
   </div>
 </div>
 
-<!-- 🔹 Publication 2 -->
+<!-- 🔹 Publication 2
 <div class="publication-card">
   <div class="pub-title">
   <a href="https://github.com/bishawchak/Undergrad_Thesis/tree/main">
@@ -212,4 +214,4 @@ document.addEventListener("DOMContentLoaded", function() {
     &nbsp;&nbsp;supervisor={Dr. Md. Foisal Hossain}<br>
     }
   </div>
-</div>
+</div> -->

@@ -19,7 +19,7 @@ nav_order: 7
         <h5 style="color: var(--global-theme-color);">Social Profiles</h5>
         <div class="social-icons">
           <a href="https://github.com/bishawchak" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.linkedin.com/in/bishawchak" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/bishawkirti" target="_blank"><i class="fab fa-linkedin"></i></a>
           <a href="https://www.facebook.com/bishaw1245" target="_blank"><i class="fab fa-facebook"></i></a>
           <a href="https://www.instagram.com/__bishaw" target="_blank"><i class="fab fa-instagram"></i></a>
         </div>

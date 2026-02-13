@@ -27,26 +27,38 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m <span class="theme-text">Bishaw Kirti Chakma</span>, a recent graduate in <span class="theme-text">Electronics and Communication Engineering</span> from <span class="theme-text">Khulna University of Engineering and Technology (KUET)</span>. I love exploring how technology and intelligence come together — especially in <span class="theme-text">Machine Learning</span>, <span class="theme-text">Natural Language Processing</span>, and <span class="theme-text">Generative AI</span>.
 
-I’ve taken several courses and completed small projects in these areas, and I’m always curious to learn something new or build something cool. My goal is to dive deeper into AI research and work on ideas that can make a real-world impact.
+Hi, I’m <span class="theme-text">Bishaw Kirti Chakma</span>, a graduate in <span class="theme-text">Electronics and Communication Engineering</span> from <span class="theme-text">Khulna University of Engineering and Technology (KUET)</span>.
 
-Outside of studies, I enjoy watching thrillers, playing games, traveling, and reading sci-fi and fantasy novels. I like trying new things and experimenting with creative tech ideas whenever I can.
+I’m currently working as a <span class="theme-text">Trainee Engineer – Network Fault Resolution (IP)</span> at Fiber@Home Ltd. in the Service Operations Center (SoC). I work with nationwide backbone and access networks, including L2/L3, MPLS, and FTTX systems. My role involves monitoring network performance, supporting configuration and upgrades of routers and switches, and troubleshooting connectivity issues to ensure high availability and service stability.
 
-## **Interests**
+This professional experience gives me practical insight into real-world network behavior, traffic patterns, latency challenges, and reliability issues which strongly support my research interests.
 
-I’m fascinated by the intersection of <span class="theme-text">AI</span>, <span class="theme-text">privacy</span>, and <span class="theme-text">human language</span>. I am passionate about machine learning and its real-world applications, and I enjoy exploring how intelligent systems can solve meaningful problems. I’m also curious about areas like <span class="theme-text">cognitive science</span>, <span class="theme-text">neuroscience</span>, and <span class="theme-text">robotics</span>.
+I have solid knowledge of routing, switching, VLANs, subnetting, firewalls, and MPLS. I also use Python for machine learning, data analysis, and research prototyping.
 
-Currently, I’m focusing on:
 
-- Exploring <span class="theme-text">fog computing</span> and <span class="theme-text">generative AI</span>  
-- Collaborating on <span class="theme-text">open-source projects</span> 
-- Developing <span class="theme-text">agentic systems</span> for extracting financial data from multimodal sources
+## **Research Interests**
+
+My primary research interest lies at the intersection of <span class="theme-text">Computer Networking</span> and <span class="theme-text">Artificial Intelligence.</span>
+
+I am currently working with my professor <span class="theme-text"><a href="https://shaonkuetece05.wixsite.com/mysite">Dr. Mirza Mohd Shahriar Maswood</a></span> on research that explores AI-driven optimization in cloud, edge, and fog computing environments. My focus is on designing hierarchical, distributed systems that combine workload forecasting, resource orchestration, and intelligent decision-making.
+
+I am particularly interested in:
+
+- Multi-timescale workload forecasting.
+
+- Edge–Fog–Cloud cooperative architectures.
+
+- Uncertainty-aware resource provisioning.
+
+- AI-driven network optimization under dynamic and bursty traffic.
+
+My long-term goal is to contribute to impactful research that improves QoS, reduces cost and latency, and makes large-scale distributed networks more adaptive and intelligent.
+
 
 ## **Skills**  
 
-I am proficient in machine learning, data science, and familiar with web development and networking. Here are the technologies I am familiar with:
-
+I have solid experience in machine learning and data science, and I am also comfortable working with web technologies and networking systems. The following are the main tools and technologies I use:
 
 ### Languages
 <p align="left">
@@ -95,7 +107,7 @@ I am proficient in machine learning, data science, and familiar with web develop
 
 ##  **Awards & Certificates**
 
-Some of my achievements -
+Some of my achievements - (under progress)
 
 <style>
 .certificate-grid {
@@ -231,6 +243,15 @@ Some of my achievements -
 </style>
 
 <div class="certificate-grid">
+<div class="certificate-card" onclick="openLightbox('/assets/img/CertificateOfCompletion_SQL Essential Training_page-0001.jpg')">
+    <img src="/assets/img/CertificateOfCompletion_SQL Essential Training_page-0001.jpg" alt="SQL Essential Training">
+    <div class="certificate-overlay">
+      <div class="certificate-title">SQL Essential Training</div>
+      <!-- <div class="certificate-issuer">LinkedIn Learning</div> -->
+    </div>
+  </div>
+
+
   <div class="certificate-card" onclick="openLightbox('/assets/img/bd_police.jpg')">
     <img src="/assets/img/bd_police.jpg" alt="Bd Police Award 2019">
     <div class="certificate-overlay">
@@ -239,37 +260,32 @@ Some of my achievements -
     </div>
   </div>
 
-  <div class="certificate-card" onclick="openLightbox('/assets/img/2.jpg')">
-    <img src="/assets/img/2.jpg" alt="Supervised Machine Learning">
+  <!-- <div class="certificate-card" onclick="openLightbox('')">
+    <img src="" alt="Supervised Machine Learning">
     <div class="certificate-overlay">
       <div class="certificate-title">Supervised Machine Learning</div>
-      <!-- <div class="certificate-issuer">Stanford Online - Coursera</div> -->
+      <div class="certificate-issuer">Stanford Online - Coursera</div>
     </div>
-  </div>
+  </div> -->
 
-  <div class="certificate-card" onclick="openLightbox('/assets/img/3.jpg')">
-    <img src="/assets/img/3.jpg" alt="Machine Learning Fundamentals">
+
+  <!-- <div class="certificate-card" onclick="openLightbox('')">
+    <img src="" alt="Machine Learning Fundamentals">
     <div class="certificate-overlay">
       <div class="certificate-title">Machine Learning Fundamentals with Python</div>
-      <!-- <div class="certificate-issuer">DataCamp</div> -->
+      <div class="certificate-issuer">DataCamp</div>
     </div>
-  </div>
+  </div> -->
 
-  <div class="certificate-card" onclick="openLightbox('/assets/img/4.jpg')">
-    <img src="/assets/img/4.jpg" alt="SQL Essential Training">
-    <div class="certificate-overlay">
-      <div class="certificate-title">SQL Essential Training (2019)</div>
-      <!-- <div class="certificate-issuer">LinkedIn Learning</div> -->
-    </div>
-  </div>
 
-  <div class="certificate-card" onclick="openLightbox('/assets/img/5.jpg')">
+
+  <!-- <div class="certificate-card" onclick="openLightbox('/assets/img/5.jpg')">
     <img src="/assets/img/5.jpg" alt="Mathematical Thinking">
     <div class="certificate-overlay">
       <div class="certificate-title">Mathematical Thinking in Computer Science</div>
-      <!-- <div class="certificate-issuer">UC San Diego - Coursera</div> -->
+      <div class="certificate-issuer">UC San Diego - Coursera</div>
     </div>
-  </div>
+  </div> -->
 
   <!-- <div class="certificate-card" onclick="openLightbox('/assets/img/6.jpg')">
     <img src="/assets/img/6.jpg" alt="Discrete Mathematics">
